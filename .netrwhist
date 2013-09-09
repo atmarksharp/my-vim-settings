@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/funatsu/lab/UNS/S4M/trunk'
+let g:netrw_dirhist_2='/Users/funatsu/lab/vim_practice/java_test'
+let g:netrw_dirhist_3='/Applications'
+let g:netrw_dirhist_4='/Users/funatsu/.vim/bundle/syntastic/syntax_checkers'
+let g:netrw_dirhist_5='/Users/funatsu/lab/vincl/src'
+let g:netrw_dirhist_6='/Users/funatsu/lab/bench_fib'
